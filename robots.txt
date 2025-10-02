@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.dsmilaclama.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow certain paths (if needed)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow specific files
+Allow: /styles.css
+Allow: /script.js
+Allow: /images/
+
+# SEO friendly URLs
+Allow: /*-hasere-ilaclama
+Allow: /*-bocek-ilaclama
+Allow: /*-pest-control
